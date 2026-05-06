@@ -3,6 +3,7 @@
 📌📌📌
 
 Paper: Influence of complex network topologies on nash equilibria in static games under dynamic simulations 
+
 Volume 82, article number 397, (2026)
 Published: 05 My 2026
 
