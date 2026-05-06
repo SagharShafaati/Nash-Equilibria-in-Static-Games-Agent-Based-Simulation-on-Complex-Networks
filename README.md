@@ -1,5 +1,20 @@
 # Nash Equilibria in Static Games: Agent-Based Simulation on Complex Networks
 
+📌📌📌
+
+⭐️ Influence of complex network topologies on nash equilibria in static games under dynamic simulations ⭐️
+Volume 82, article number 397, (2026)
+05 My 2026
+
+Cite this article 
+Shafaati, S., Azimi, M., Mohammadzadeh, J. et al. Influence of complex network topologies on nash equilibria in static games under dynamic simulations. J Supercomput 82, 397 (2026). https://doi.org/10.1007/s11227-026-08421-9
+
+DOI:https://doi.org/10.1007/s11227-026-08421-9
+
+Full version: https://rdcu.be/fg6oG 
+
+📌📌📌
+
 This project simulates the evolution of strategies in 2-player static games using **agent-based modeling** on various types of **complex networks**. It explores how **network topology** and different **strategy update rules** influence the convergence toward **Nash equilibria**.
 
 ---
@@ -79,22 +94,3 @@ Install required Python packages:
 
 ```bash
 pip install numpy pandas networkx matplotlib seaborn
-
-
-
-////
-
-📌📌📌
-
-⭐️ Influence of complex network topologies on nash equilibria in static games under dynamic simulations ⭐️
-Volume 82, article number 397, (2026)
-05 My 2026
-
-Cite this article 
-Shafaati, S., Azimi, M., Mohammadzadeh, J. et al. Influence of complex network topologies on nash equilibria in static games under dynamic simulations. J Supercomput 82, 397 (2026). https://doi.org/10.1007/s11227-026-08421-9
-
-DOI:https://doi.org/10.1007/s11227-026-08421-9
-
-Full version: https://rdcu.be/fg6oG 
-
-
